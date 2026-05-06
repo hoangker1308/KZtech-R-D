@@ -1,0 +1,13 @@
+Info: Output directory 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim' created.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-F_Cu.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-B_Cu.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-F_Paste.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-B_Paste.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-F_Silkscreen.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-B_Silkscreen.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-F_Mask.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-B_Mask.gbr'.
+Plotted to 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-Edge_Cuts.gbr'.
+Created Gerber job file 'W:\2026\P17230326\hardware\P17230326 - TENP MEASURING DEVICE\geber_thiet_bi_do_than_nhiet_va_nhip_tim\P17230326 - TENP MEASURING DEVICE - MASTER-job.gbrjob'.
+Info: Done.
+Info: Done.
