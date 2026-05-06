@@ -1,0 +1,4 @@
+git status          # kiểm tra thay đổi
+git add .           # thêm file mới
+git commit -m "ghi chú thêm file mới"
+git push
